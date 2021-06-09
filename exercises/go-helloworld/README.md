@@ -12,3 +12,8 @@ go run main.go
 ```
 
 Access the application on: http://127.0.0.1:6111/
+
+### Useful links
+* https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current-directory-or-any-parent-directory-see-go
+* https://stackoverflow.com/questions/41984399/denied-requested-access-to-the-resource-is-denied-docker
+
